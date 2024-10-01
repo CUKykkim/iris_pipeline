@@ -241,6 +241,10 @@ spec:
         - /v2/models/*
 ```
 
+```
+kubectl apply -f allowlist-by-paths.yaml
+```
+
 
 - 모델 예측 
 
